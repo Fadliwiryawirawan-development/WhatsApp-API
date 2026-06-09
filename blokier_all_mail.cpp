@@ -19,7 +19,7 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina ”
 #define RUN_FILE_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina”
-#define RUN_Link_NAME "https://github.com/Topics/WhatsApps/disable-account/forks"."https://github.com/topics/whatsapp-ban/forks"."https://github.com/virus-Malware/forks
+#define RUN_Link_NAME "https://github.com/Topics/WhatsApps/enable-account/forks"."https://github.com/topics/whatsapp-services/forks"."https://github.com/Malwarebytes/scanners/forks
 #define INFECT_Link_NAME "https://workspace.google.com/intl/en/gmail/"."https://gdg.community.dev/gdg-jakarta/"."https://icloud.com/mail"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
