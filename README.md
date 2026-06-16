@@ -14,4 +14,5 @@ https://github.com/user-attachments/assets/95dc5c0f-f9f5-4c93-b252-767f3c729a99
 
 # https://www.icloud.com/mail/
 
-<img width="282" height="197" alt="WHO" src="https://github.com/user-attachments/assets/1e647b7c-59cd-4d3a-9691-f68f5ba911da" />
+<img width="720" height="1280" alt="FadliWiryaWirawan S Kom M S (2)" src="https://github.com/user-attachments/assets/ae29a475-b1da-4eba-a65a-4abb9561d7d7" />
+<img width="720" height="1280" alt="avatar-2-2" src="https://github.com/user-attachments/assets/7945f26a-37b8-4449-b9cd-ecc8883cdd18" />
