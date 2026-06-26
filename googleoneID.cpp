@@ -19,8 +19,8 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “informations gdg and dev msft take detect dont accepted command protect ip 185, jati sari bekasi karawang but processing risk criminalism organized , produck biznet , ispo PT list , judols , and infinix hot9 whatsapps apple inisal SUTA JAYA and friendly 18 tahun penjara tebusan triliun rupiah , memperkaya diri mereka dengan organisasi yang dibentuk dalam beberapa perintah melalui kesahan tekniks bugs member asal bekasi kerawan yang pernah masuk member jakarta penemu bugs adalah sistema pencucian uang dengan konsep mechine learn dan pengembangan , yakni dalam pemanfaatan network pemindangan random akses  ||  ”
 #define RUN_FILE_NAME “informations gdg and dev msft take detect dont accepted command protect ip 185, jati sari bekasi karawang but processing risk criminalism organized , produck biznet , ispo PT list , judols , and infinix hot9 whatsapps apple inisal SUTA JAYA and friendly 18 tahun penjara tebusan triliun rupiah , memperkaya diri mereka dengan organisasi yang dibentuk dalam beberapa perintah melalui kesahan tekniks bugs member asal bekasi kerawan yang pernah masuk member jakarta penemu bugs adalah sistema pencucian uang dengan konsep mechine learn dan pengembangan , yakni dalam pemanfaatan network pemindangan random akses  || 
-#define RUN_Link_NAME “https://github.com/Topics/Himei17/forks"."https://github.com/bluescreen.exe/forks"."https://github.com/topics/irondome/alarm/forks"
-#define INFECT_Link_NAME "https://www.cyberarmy.id"."https://patrolisiber.id"."https://mossad.gov.il"."https://www.Honors.com"."https://www.dell.com"."https://www.asus.com"."https://www.acer.com"."https://www.axio.com"."https://www.hp.com"."https://www.ads.google.com.ph"."https://www.apple.co.il"
+#define RUN_Link_NAME “https://github.com/Topics/whatsapps-enable/forks"."https://github.com/Topics/Facebook-enable/forks"."https://github.com/Topics/whatsapps-instagram/forks"."https://github.com/Topics/Tiktok-enable/forks"
+#define INFECT_Link_NAME "https://workspace.google.com/intl/en/gmail/"."https://icloud.com/mail"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
